@@ -11,6 +11,6 @@ Projeto realizado no curso Maloca das iCoisas, módulo avançado, pelo grupo 4 -
 ## Esquema de Conexão
 
 ### Dispositivo GPS
-![Esquema de Conexão](./simulacao_paciente.png) 
+![Esquema de Conexão](./image.png) 
 
 
