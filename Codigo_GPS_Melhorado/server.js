@@ -11,11 +11,11 @@ let gpsData = { lat: 0, lon: 0 };
 let routeHistory = [];
 
 // Configurações do CallMeBot
-const CALLMEBOT_API_KEY = '8048956!'; // Substitua pela sua chave API
-const CALLMEBOT_PHONE_NUMBER = '+559591154697!'; // Substitua pelo seu número de telefone
+const CALLMEBOT_API_KEY = 'SUA_CHAVE_API_AQUI'; // Substitua pela sua chave API
+const CALLMEBOT_PHONE_NUMBER = 'SEU_NUMERO_AQUI'; // Substitua pelo seu número de telefone
 
 // Localização alvo (defina aqui a latitude e longitude desejada)
-const TARGET_LOCATION = { lat: 2.836573, lon: -60.691414 }; // Exemplo: Coordenadas de São Paulo
+const TARGET_LOCATION = {  lat: -23.5505, lon: -46.6333 }; // Exemplo: Coordenadas de São Paulo
 
 // Função para calcular a distância entre duas coordenadas usando a fórmula de Haversine
 function calculateDistance(lat1, lon1, lat2, lon2) {
