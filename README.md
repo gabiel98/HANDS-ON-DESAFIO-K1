@@ -13,4 +13,8 @@ Projeto realizado no curso Maloca das iCoisas, módulo avançado, pelo grupo 4 -
 ### Dispositivo GPS
 ![Esquema de Conexão](./image.png) 
 
+## Melhorias: 
+
+- Comunicação em Tempo Real com WebSocket
+- Integração do CallMeBot
 
