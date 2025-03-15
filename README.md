@@ -2,6 +2,8 @@
 
 Projeto realizado no curso Maloca das iCoisas, módulo avançado, pelo grupo 4 - Os Suricatos Cibernéticos.
 
+Rastreamento de Ambulância em tempo real usando o Glith e o Módulo GPS NEO-6M
+
 ## Big Picture
 
 ### Storytelling
@@ -15,6 +17,6 @@ Projeto realizado no curso Maloca das iCoisas, módulo avançado, pelo grupo 4 -
 
 ## Melhorias: 
 
-- Comunicação em Tempo Real com WebSocket
-- Integração do CallMeBot
+- Comunicação em Tempo Real com WebSocket para não precisar está  reiniciando a página Web.
+- Integração do CallMeBot para Quando a Ambulância estiver perto no caso, menos ou igual a 100 metros do Hospital.
 
