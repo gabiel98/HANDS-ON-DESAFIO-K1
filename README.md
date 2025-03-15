@@ -17,6 +17,6 @@ Rastreamento de Ambulância em tempo real usando o Glith e o Módulo GPS NEO-6M
 
 ## Melhorias: 
 
-- Comunicação em Tempo Real com WebSocket para não precisar está  reiniciando a página Web.
-- Integração do CallMeBot para Quando a Ambulância estiver perto no caso, menos ou igual a 100 metros do Hospital.
+- Comunicação em Tempo Real com WebSocket para não precisar estar reiniciando a página Web.
+- Integração do CallMeBot para Quando a Ambulância estiver perto, no caso, distância menor ou igual a 100 metros do Hospital.
 
