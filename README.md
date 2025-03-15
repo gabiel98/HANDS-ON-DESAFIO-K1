@@ -8,7 +8,7 @@ Rastreamento de Ambulância em tempo real usando o Glith e o Módulo GPS NEO-6M
 
 ### Storytelling
 
-![Big Picture](./big_picture.png)
+![Big Picture](./bigpicturegps100m.png)
 
 ## Esquema de Conexão
 
